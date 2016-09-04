@@ -6,5 +6,5 @@
 
 This is what I see on my machine
 
-(https://github.com/schatekar/scala-for-the-impatient/blob/master/images/c1.1.PNG|alt=scala REPL auto complete)
+!(Scala REPL auto complete)[https://github.com/schatekar/scala-for-the-impatient/blob/master/images/c1.1.PNG]
 
