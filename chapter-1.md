@@ -6,3 +6,5 @@
 
 This is what I see on my machine
 
+[!/images/c1.1.png]
+
